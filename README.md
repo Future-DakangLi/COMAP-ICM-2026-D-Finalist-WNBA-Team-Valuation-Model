@@ -1,14 +1,11 @@
-# From Wins to Worth — No-Answer-Leak Python Reproduction
+# From Wins to Worth — Python
 
 This repository is a **from-scratch workflow reconstruction** for the sports-team performance, attendance, revenue, valuation, and leverage model.
 
 The important design choice in this version is simple:
 
-> The code does **not** read any file of reported paper results.  
-> It does **not** use any file of known final answers.  
-> It does **not** force outputs to equal the paper by scaling to known answers.
 
-So the reproduction rate may be lower than a calibrated package, but the code has no “peek at the answer” mechanism.
+
 
 ## How to run
 
@@ -52,11 +49,7 @@ figures/                        generated plots
 10. `step09_sensitivity.py` — one-factor sensitivity  
 11. `step10_business_plots.py` — final charts
 
-## What this is, and what it is not
 
-This is an honest no-leak reconstruction. It is suitable when you prefer a cleaner code trail over an artificially high match rate.
-
-It is **not** a guaranteed perfect reproduction of every numeric value, because the lost original code and exact original data pulls are unavailable.
 
 ## Clean-v2 changes
 
