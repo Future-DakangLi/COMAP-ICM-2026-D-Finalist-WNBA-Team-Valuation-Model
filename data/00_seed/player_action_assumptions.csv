@@ -1,0 +1,4 @@
+action,elo_boost,popularity_boost,extra_salary_m,extra_other_revenue_m
+NO_MOVE,0,0.0,0.0,0.0
+SIGN_STAR,70,0.06,6.0,0.35
+TRADE_SUPERSTAR,95,0.1,9.0,0.55

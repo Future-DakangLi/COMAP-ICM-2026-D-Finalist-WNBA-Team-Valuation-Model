@@ -1,0 +1,4 @@
+scenario,season_games,expected_wins
+raw_elo_point_forecast,44,19.06450146699179
+risk_adjusted_baseline,44,11.209299197128491
+key_player_injury,44,6.5336306302952325

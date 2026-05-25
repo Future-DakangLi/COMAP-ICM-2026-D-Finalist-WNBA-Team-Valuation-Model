@@ -1,0 +1,8 @@
+dataset,method,success,path
+games_raw.csv,offline_source_snapshot,True,/mnt/data/fever_value_model_clean_v3/data/01_raw_downloaded/games_raw.csv
+venues_raw.csv,offline_source_snapshot,True,/mnt/data/fever_value_model_clean_v3/data/01_raw_downloaded/venues_raw.csv
+future_schedule_raw.csv,offline_source_snapshot,True,/mnt/data/fever_value_model_clean_v3/data/01_raw_downloaded/future_schedule_raw.csv
+finance_input_assumptions.csv,offline_source_snapshot,True,/mnt/data/fever_value_model_clean_v3/data/01_raw_downloaded/finance_input_assumptions.csv
+player_action_assumptions.csv,offline_source_snapshot,True,/mnt/data/fever_value_model_clean_v3/data/01_raw_downloaded/player_action_assumptions.csv
+scenario_input_assumptions.csv,offline_source_snapshot,True,/mnt/data/fever_value_model_clean_v3/data/01_raw_downloaded/scenario_input_assumptions.csv
+source_manifest.csv,offline_source_snapshot,True,/mnt/data/fever_value_model_clean_v3/data/01_raw_downloaded/source_manifest.csv

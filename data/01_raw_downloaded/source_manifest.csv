@@ -1,0 +1,11 @@
+name,url,note
+WNBA schedule and score data,https://raw.githubusercontent.com/sportsdataverse/wehoop-data/main/wnba_schedule_master.csv,primary public schedule/game source when online collection is enabled
+WNBA schedule stats index,https://raw.githubusercontent.com/sportsdataverse/wehoop-data/main/wnba_stats_schedule_master.csv,optional secondary schedule index
+WNBA game list,https://raw.githubusercontent.com/sportsdataverse/wehoop-data/main/wnba/wnba_games_in_data_repo.csv,optional team/game metadata
+Arena capacity data,https://raw.githubusercontent.com/MJAlexander/nba/master/arenas_red.csv,venue capacity reference; WNBA-specific manual fixes are permitted
+Federal funds effective rate,https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFF,macro interest rate input
+High yield bond spread,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2,credit spread proxy
+SeatGeek events API,https://api.seatgeek.com/2/events,optional ticket price input; requires API credentials
+Basketball Reference WNBA season stats,https://www.basketball-reference.com/wnba/years/{year}_per_game.html,optional player stats input
+HerHoopStats salary cap sheet,https://herhoopstats.com/salary-cap-sheet/wnba/players/,optional salary input
+Spotrac WNBA cap,https://www.spotrac.com/wnba/cap/_/year/{year},optional team payroll input

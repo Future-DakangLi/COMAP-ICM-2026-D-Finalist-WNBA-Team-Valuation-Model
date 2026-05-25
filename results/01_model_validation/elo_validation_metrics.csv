@@ -1,0 +1,2 @@
+n_games,brier_score,log_loss,accuracy_p_gt_0_5,initial_rating,k_factor,home_advantage
+5065,0.2588130535022589,0.7120481371412635,0.513919052319842,1500.0,20.0,45.0

@@ -1,0 +1,8 @@
+scenario,interest_shift,other_revenue_multiplier,injury_elo_penalty
+baseline,0.0,1.0,0
+interest_rate_up_1pct,0.01,1.0,0
+interest_rate_down_1pct,-0.01,1.0,0
+big_market_expansion,0.0,1.1,0
+mid_market_expansion,0.0,1.0,0
+small_market_expansion,0.0,0.92,0
+key_player_injury,0.0,1.0,140

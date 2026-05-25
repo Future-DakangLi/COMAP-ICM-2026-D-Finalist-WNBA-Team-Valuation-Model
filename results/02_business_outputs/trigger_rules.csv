@@ -1,0 +1,4 @@
+trigger,condition,response
+cash warning,ending cash <= 1.2 * safety cash,lower preferred leverage and pause new debt
+demand warning,predicted attendance rate falls for two review windows,favor marketing or popularity-improving action
+competition warning,win forecast drops materially after injury/performance news,consider strength-improving action but tighten leverage

@@ -1,0 +1,45 @@
+game_id,season,game_date,home_team,away_team,venue,capacity,min_ticket_price
+1,2026,2026-05-20,Indiana Fever,Atlanta Dream,Gainbridge Fieldhouse,20000,48.18
+20,2026,2026-05-23,Atlanta Dream,Indiana Fever,Opponent Arena,15000,48.18
+2,2026,2026-05-27,Indiana Fever,Chicago Sky,Gainbridge Fieldhouse,20000,48.18
+21,2026,2026-05-29,Chicago Sky,Indiana Fever,Opponent Arena,15000,48.18
+3,2026,2026-06-03,Indiana Fever,Connecticut Sun,Gainbridge Fieldhouse,20000,48.18
+22,2026,2026-06-04,Connecticut Sun,Indiana Fever,Opponent Arena,15000,48.18
+23,2026,2026-06-10,Dallas Wings,Indiana Fever,Opponent Arena,15000,48.18
+4,2026,2026-06-10,Indiana Fever,Dallas Wings,Gainbridge Fieldhouse,20000,48.18
+24,2026,2026-06-16,Las Vegas Aces,Indiana Fever,Opponent Arena,15000,48.18
+5,2026,2026-06-17,Indiana Fever,Las Vegas Aces,Gainbridge Fieldhouse,20000,48.18
+25,2026,2026-06-22,Los Angeles Sparks,Indiana Fever,Opponent Arena,15000,48.18
+6,2026,2026-06-24,Indiana Fever,Los Angeles Sparks,Gainbridge Fieldhouse,20000,48.18
+26,2026,2026-06-28,Minnesota Lynx,Indiana Fever,Opponent Arena,15000,48.18
+7,2026,2026-07-01,Indiana Fever,Minnesota Lynx,Gainbridge Fieldhouse,20000,48.18
+27,2026,2026-07-04,New York Liberty,Indiana Fever,Opponent Arena,15000,48.18
+8,2026,2026-07-08,Indiana Fever,New York Liberty,Gainbridge Fieldhouse,20000,48.18
+28,2026,2026-07-10,Phoenix Mercury,Indiana Fever,Opponent Arena,15000,48.18
+9,2026,2026-07-15,Indiana Fever,Phoenix Mercury,Gainbridge Fieldhouse,20000,48.18
+29,2026,2026-07-16,Seattle Storm,Indiana Fever,Opponent Arena,15000,48.18
+10,2026,2026-07-22,Indiana Fever,Seattle Storm,Gainbridge Fieldhouse,20000,48.18
+30,2026,2026-07-22,Washington Mystics,Indiana Fever,Opponent Arena,15000,48.18
+31,2026,2026-07-28,Golden State Valkyries,Indiana Fever,Opponent Arena,15000,48.18
+11,2026,2026-07-29,Indiana Fever,Washington Mystics,Gainbridge Fieldhouse,20000,48.18
+32,2026,2026-08-03,Atlanta Dream,Indiana Fever,Opponent Arena,15000,48.18
+12,2026,2026-08-05,Indiana Fever,Golden State Valkyries,Gainbridge Fieldhouse,20000,48.18
+33,2026,2026-08-09,Chicago Sky,Indiana Fever,Opponent Arena,15000,48.18
+13,2026,2026-08-12,Indiana Fever,Atlanta Dream,Gainbridge Fieldhouse,20000,48.18
+34,2026,2026-08-15,Connecticut Sun,Indiana Fever,Opponent Arena,15000,48.18
+14,2026,2026-08-19,Indiana Fever,Chicago Sky,Gainbridge Fieldhouse,20000,48.18
+35,2026,2026-08-21,Dallas Wings,Indiana Fever,Opponent Arena,15000,48.18
+15,2026,2026-08-26,Indiana Fever,Connecticut Sun,Gainbridge Fieldhouse,20000,48.18
+36,2026,2026-08-27,Las Vegas Aces,Indiana Fever,Opponent Arena,15000,48.18
+16,2026,2026-09-02,Indiana Fever,Dallas Wings,Gainbridge Fieldhouse,20000,48.18
+37,2026,2026-09-02,Los Angeles Sparks,Indiana Fever,Opponent Arena,15000,48.18
+38,2026,2026-09-08,Minnesota Lynx,Indiana Fever,Opponent Arena,15000,48.18
+17,2026,2026-09-09,Indiana Fever,Las Vegas Aces,Gainbridge Fieldhouse,20000,48.18
+39,2026,2026-09-14,New York Liberty,Indiana Fever,Opponent Arena,15000,48.18
+18,2026,2026-09-16,Indiana Fever,Los Angeles Sparks,Gainbridge Fieldhouse,20000,48.18
+40,2026,2026-09-20,Phoenix Mercury,Indiana Fever,Opponent Arena,15000,48.18
+19,2026,2026-09-23,Indiana Fever,Minnesota Lynx,Gainbridge Fieldhouse,20000,48.18
+41,2026,2026-09-26,Seattle Storm,Indiana Fever,Opponent Arena,15000,48.18
+42,2026,2026-10-02,Washington Mystics,Indiana Fever,Opponent Arena,15000,48.18
+43,2026,2026-10-08,Golden State Valkyries,Indiana Fever,Opponent Arena,15000,48.18
+44,2026,2026-10-14,Atlanta Dream,Indiana Fever,Opponent Arena,15000,48.18
